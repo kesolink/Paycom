@@ -1,0 +1,17 @@
+
+body{
+    background-color: hsl(217, 54%, 11%);
+    color: hsl(178, 100%, 50%);
+}
+div{
+    width: 600px;
+    height: 200px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color:hsl(216, 50%, 16%) ;
+    
+
+}
+.card-image {
+    width: 70px;
+    height: 40px;
